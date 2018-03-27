@@ -5,7 +5,6 @@ let boxesFilledPerBoxFill = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
 let boxesFilled = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
 
 function fillColour() {
-    
     boxFill[0] += boxFillAmount[0];
     
     if (boxFill[0] >= boxRequiredFill[0]) {
