@@ -22,13 +22,26 @@ body {
     border: 3px solid black;
 }
 
-#colourBoxHolder {
-    width: 45vw;
+#coloursContainer {
+    width: 90vw;
     margin: 5px auto;
 }
 
+#colourBoxHolder {
+    width: 45%;
+    padding-right: 5%;
+    border-right: 3px solid black;
+    float: left;
+}
 
-#colourBox1 {
+#colourUpgradesHolder {
+    width: 45%;
+    height: 1000px;
+    float: right;
+}
+
+
+#colourBox0 {
     box-sizing: border-box;
     background-color: white;
     width: 78%;
@@ -54,51 +67,51 @@ body {
     border-radius: 17px;
 }
 
-#colour0 {
+.colour0, .colourUpg0 .upgradeButton {
     background-color: red;
 }
 
-#colour1 {
+.colour1, .colourUpg1 .upgradeButton {
     background-color: red;
 }
 
-#colour2 {
+.colour2, .colourUpg2 .upgradeButton {
     background-color: red;
 }
 
-#colour3 {
+.colour3, .colourUpg3 .upgradeButton {
     background-color: red;
 }
 
-#colour4 {
+.colour4, .colourUpg4 .upgradeButton {
     background-color: red;
 }
 
-#colour5 {
+.colour5, .colourUpg5 .upgradeButton {
     background-color: red;
 }
 
-#colour6 {
+.colour6, .colourUpg6 .upgradeButton {
     background-color: red;
 }
 
-#colour7 {
+.colour7, .colourUpg7 .upgradeButton {
     background-color: red;
 }
 
-#colour8 {
+.colour8, .colourUpg8 .upgradeButton {
     background-color: red;
 }
 
-#colour9 {
+.colour9, .colourUpg9 .upgradeButton {
     background-color: red;
 }
 
-#colour10 {
+.colour10, .colourUpg10 .upgradeButton {
     background-color: red;
 }
 
-#colour11 {
+.colour11, .colourUpg11 .upgradeButton {
     background-color: red;
 }
 
@@ -111,4 +124,21 @@ body {
     border-radius: 20px;
     border: 3px solid black;
     float: right;
+}
+
+.upgradeBox {
+    margin: 5px 0;
+}
+
+#upgradeBox0 {
+    margin-top 0;
+}
+
+.upgradeButton {
+    box-sizing: border-box;
+    width: 32%;
+    height: 6vh;
+    color: black;
+    border-radius: 20px;
+    border: 3px solid black;
 }
