@@ -1,6 +1,6 @@
 let boxFill = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
 let boxFillAmount = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
-let boxRequiredFill = [10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10];
+let boxRequiredFill = [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2];
 let boxesFilledPerBoxFill = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
 let boxesFilled = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
 

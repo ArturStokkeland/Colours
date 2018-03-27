@@ -17,7 +17,7 @@ body {
     position: relative;
     height: 7vh;
     width: 17.6vw;
-    background-color: red;
+    background-color: #7F00FF;
     border-radius: 10px;
     border: 3px solid black;
 }
@@ -68,58 +68,58 @@ body {
 }
 
 .colour0, .colourUpg0 .upgradeButton {
-    background-color: red;
+    background-color: #7F00FF;
 }
 
 .colour1, .colourUpg1 .upgradeButton {
-    background-color: red;
+    background-color: #0000FF;
 }
 
 .colour2, .colourUpg2 .upgradeButton {
-    background-color: red;
+    background-color: #007FFF;
 }
 
 .colour3, .colourUpg3 .upgradeButton {
-    background-color: red;
+    background-color: #00FFFF;
 }
 
 .colour4, .colourUpg4 .upgradeButton {
-    background-color: red;
+    background-color: #00FF7F;
 }
 
 .colour5, .colourUpg5 .upgradeButton {
-    background-color: red;
+    background-color: #00FF00;
 }
 
 .colour6, .colourUpg6 .upgradeButton {
-    background-color: red;
+    background-color: #7FFF00;
 }
 
 .colour7, .colourUpg7 .upgradeButton {
-    background-color: red;
+    background-color: #FFFF00;
 }
 
 .colour8, .colourUpg8 .upgradeButton {
-    background-color: red;
+    background-color: #FF7F00;
 }
 
 .colour9, .colourUpg9 .upgradeButton {
-    background-color: red;
+    background-color: #FF0000;
 }
 
 .colour10, .colourUpg10 .upgradeButton {
-    background-color: red;
+    background-color: #FF007F;
 }
 
 .colour11, .colourUpg11 .upgradeButton {
-    background-color: red;
+    background-color: #FF00FF;
 }
 
 #fillButton {
     box-sizing: border-box;
     width: 20%;
     height: 6vh;
-    background-color: red;
+    background-color: #7F00FF;
     color: black;
     border-radius: 20px;
     border: 3px solid black;
